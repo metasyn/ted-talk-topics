@@ -1,10 +1,13 @@
 # TED 2013: a topical exploration
-
 I'm doing some document clustering and maybe some topic modeling with this data
 set.
 
 [View the Ipython Notebook
 here](http://nbviewer.ipython.org/github/metasyn/ted-talk-topics/blob/master/ted.ipynb).
+
+Data Projector from [Datacratic](https://github.com/datacratic/data-projector).
+See their post on SVD, t-SNE, and Three.js
+[here](http://datacratic.com/site/blog/visualizing-high-dimensional-data-browser-svd-t-sne-and-threejs).`
 
 ## The Data
 [OPUS](http://opus.lingfil.uu.se/TED2013.php) provided the data, with credits
