@@ -7,7 +7,10 @@ here](http://nbviewer.ipython.org/github/metasyn/ted-talk-topics/blob/master/ted
 
 Data Projector from [Datacratic](https://github.com/datacratic/data-projector).
 See their post on SVD, t-SNE, and Three.js
-[here](http://datacratic.com/site/blog/visualizing-high-dimensional-data-browser-svd-t-sne-and-threejs).`
+[here](http://datacratic.com/site/blog/visualizing-high-dimensional-data-browser-svd-t-sne-and-threejs).
+
+See the 3-d data clustering (interactive!)
+[here](http://metasyn.pw/ted-talk-topics/data-projector/index.html). 
 
 ## The Data
 [OPUS](http://opus.lingfil.uu.se/TED2013.php) provided the data, with credits
