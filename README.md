@@ -2,6 +2,9 @@
 I'm doing some document clustering and maybe some topic modeling with this data
 set.
 
+## [View the
+Presentation](http://slideviewer.herokuapp.com/github/metasyn/ted-talk-topics/blob/master/ted.ipynb#/)
+
 [View the Ipython Notebook
 here](http://nbviewer.ipython.org/github/metasyn/ted-talk-topics/blob/master/ted.ipynb).
 
